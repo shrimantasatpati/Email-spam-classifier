@@ -1,1 +1,2 @@
 # Email-spam-classifier
+The purpose of this project is to use the Multinomial Naive Bayes algorithm in scikit learn library to predict whether a email is a spam or not by analysing the body of the email. The data set used in this project is in a compressed tar file. After decompressing the tar file, a email folder should appear which contain text files of around 5000 emails. I have been able to achieve a accuracy of 92% in the model which is great. Any way suggested to increase the accuracy of the model will be greatly appreciated!
